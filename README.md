@@ -13,7 +13,7 @@ Um simples e divertido jogo de Pedra, Papel ou Tesoura desenvolvido em Android S
 
 Aqui está uma prévia do aplicativo em ação:
 
-![Screenshot do aplicativo Pedra, Papel ou Tesoura mostrando um Empate.](image_c86c03.png)
+<img src="https://github.com/WilsonGomes95/PedraPapelTesoura/blob/main/app/src/main/res/drawable/Captura%20de%20tela%202025-08-14%20094046.png" alt="Tela do app Álcool ou Gasolina" width="300">
 
 ## 🛠️ Tecnologias Utilizadas
 
